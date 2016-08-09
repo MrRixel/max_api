@@ -5,7 +5,9 @@ return {
 	admin = {
 		owner = 229265735,
 		admins = {
-			[229265735] = true
+			[229265735] = true,
+			[252209956] = true,
+			[175636120] = true
 		}
 	},
 	log_chat = -1001057801239,
